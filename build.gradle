@@ -271,8 +271,8 @@ sonarqube {
     properties {
         property "sonar.host.url", "https://sonarcloud.io"
         property "sonar.organization", "mymlpocs"
-        property "sonar.projectKey", "my-ml-pocs_Java"
-        property "sonar.projectName", "Java"
+        property "sonar.projectKey", "my-ml-pocs_sonartest-java"
+        property "sonar.projectName", "sonartest-java"
         property "sonar.projectDescription", "A demonstration of a web application with good test coverage and best practices"
         property "sonar.sources", "src/main/java"
         property "sonar.tests", "src/test/java,src/integration_test/java,src/bdd_test/java"
