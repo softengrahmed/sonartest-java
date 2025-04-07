@@ -4,7 +4,7 @@ This is an application by [Coveros](https://www.coveros.com/) to demonstrate goo
 software practices.  As we say in agile... _Working software over comprehensive 
 documentation_ ... but that doesn't mean we can't have pretty good documentation too. 
 
-#### Quick Start:
+#### Quick Start: ADD NEW LINE OF TEXT
 
 * Install [Java](https://www.java.com/en/download/) if you don't already have it.
 * Clone or [download](https://github.com/7ep/demo/archive/master.zip) this repo.  (if you download, unzip the file to a directory.)
